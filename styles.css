@@ -1,0 +1,49 @@
+﻿body {
+    background-color: #D4DCE0 !important;
+}
+
+/* Стиль алёртов. */
+.alert-danger {
+    display: none;
+}
+/* Расположение инпутов. */
+.form-group {
+    margin: 1rem;
+}
+
+/* Стиль инпутов формы логина. */
+.form-control {
+    border: 1px solid #D4DCE0;
+    padding: 6px 8px !important;
+}
+
+/* В фокусе после нажатия */
+.form-control:focus {
+    border-color: #00A3D9 !important;
+    box-shadow: none !important;
+}
+
+/*  Стиль кнопки отправки. */
+.btn-primary {
+    color: #fff;
+    background-color: #00A3D9 !important;
+    border-color: #00a3d9 !important;
+}
+
+/* Стиль блока авторизации. */
+.login-form {
+    margin: 1.5rem;
+    padding: .25rem;
+    background-color: #ffffff;
+    box-shadow: 0 2px 10px 2px rgba(0, 0, 0, .3);
+    border-radius: .25rem;
+}
+
+/* Стиль таблицы */
+#gridStyle
+{
+    margin-left:20px;
+    background: white;
+    box-shadow: 0 1px 10px 2px rgba(0, 0, 0, .1);
+    border-radius: .25rem;
+}
