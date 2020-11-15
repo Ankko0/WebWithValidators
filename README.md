@@ -1,7 +1,7 @@
 # WebWithValidators
-*Simple form with input validations 
+Simple form with input validations 
 
-*Demo: http://awesomesite.rf.gd/webform/ 
+Demo: http://awesomesite.rf.gd/webform/ 
 
 Задание 5.
 
